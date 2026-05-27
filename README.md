@@ -26,8 +26,6 @@ Software developer
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abrmeval&theme=radical&hide_border=true)](https://github.com/abrmeval)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abrmeval&theme=react-dark&hide_border=true&area=true)](https://github.com/abrmeval)
-
 ![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=abrmeval&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Connect with me
