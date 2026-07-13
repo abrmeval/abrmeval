@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abrahim
 
-Software developer
+Software engineer
 
 ## 🚀 About Me
 - 🔭 I'm currently working on exciting projects
