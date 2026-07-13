@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Abrahim Mejía Valdez
+# Hi there 👋, I'm Abrahim
 
 Software developer
 
