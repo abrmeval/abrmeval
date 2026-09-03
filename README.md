@@ -11,14 +11,14 @@ Software engineer
 
 ## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-007ACC?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-007ACC?style=flat-square&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-007ACC?style=flat-square&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-aa2929?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-aa2929?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-aa2929?style=flat-square&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-aa2929?style=flat-square&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-aa2929?style=flat-square&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-aa2929?style=flat-square&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-aa2929?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-aa2929?style=flat-square&logoColor=white)
 
 ## 📊 GitHub Stats
 
