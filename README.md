@@ -22,11 +22,11 @@ Software engineer
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=abrmeval&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/abrmeval)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=abrmeval&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=abrmeval&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abrmeval&theme=radical&hide_border=true)](https://github.com/abrmeval)
 
-![Top Languages](https://helio-github-stats.vercel.app/api/top-langs/?username=abrmeval&layout=compact&theme=radical&hide_border=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=abrmeval&layout=donut&langs_count=6&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=abrmeval&layout=donut&langs_count=6&theme=shadow_red)
 
 ## 📫 Connect with me
 
