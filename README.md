@@ -24,7 +24,7 @@ Software engineer
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=abrmeval&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=abrmeval&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=shadow_red)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abrmeval&theme=shadow-red&hide_border=true&timezone=UTC-6&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abrmeval&theme=shadow-red&hide_border=true&timezone=GMT-6&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=abrmeval&layout=donut&langs_count=6&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=abrmeval&layout=donut&langs_count=6&theme=shadow_red)
 
