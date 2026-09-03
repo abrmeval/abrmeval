@@ -18,7 +18,7 @@ Software engineer
 ![C#](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-007ACC?style=flat-square&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-007ACC?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Go-007ACC?style=flat-square&logoColor=white)
 
 ## 📊 GitHub Stats
 
