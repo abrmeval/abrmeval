@@ -30,8 +30,9 @@ Software engineer
 
 ## 📫 Connect with me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahimmejiavaldez@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-aa2929?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahimmejiavaldez@gmail.com)
 
 
 ---
-⭐️ From [abrmeval](https://github.com/abrmeval)
+⭐️ From <a href="https://github.com/abrmeval" style="color: #FF5733;">abrmeval</a>
+
