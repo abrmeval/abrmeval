@@ -27,7 +27,7 @@ Software engineer
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=abrmeval&layout=donut&langs_count=6&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=abrmeval&layout=donut&langs_count=6&theme=shadow_red)
 
-## 📫 Connect with me
+## ✉️ Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-aa2929?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahimmejiavaldez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-aa2929?style=flat-square&logoColor=white)](http://linkedin.com/in/abrahimmejiavaldez)
