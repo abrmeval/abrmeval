@@ -6,7 +6,6 @@ Software engineer
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm currently learning new technologies
 - 💬 Ask me about software development
-- 📫 How to reach me: **abrahimmejiavaldez@gmail.com**
 - 📍 Located in: **Mexico**
 
 ## 🛠️ Tech Stack
@@ -31,7 +30,7 @@ Software engineer
 ## 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/-Email-aa2929?style=flat-square&logo=gmail&logoColor=white)](mailto:abrahimmejiavaldez@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-aa2929?style=flat-square&logoColor=white)](http://linkedin.com/in/abrahimmejiavaldez)
 
 ---
 ⭐️ From <a href="https://github.com/abrmeval" style="color: #FF5733;">abrmeval</a>
