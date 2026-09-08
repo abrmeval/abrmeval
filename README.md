@@ -4,7 +4,7 @@ Software engineer
 
 ## 🚀 About Me
 - 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies
+- 🌱 I'm interested in learning new technologies
 - 💬 Ask me about software development
 - 📍 Located in: **Mexico**
 
